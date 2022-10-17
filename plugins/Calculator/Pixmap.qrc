@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Pixmap/jisuanqi5.png</file>
+        <file>Pixmap/jisuanqi6.png</file>
+        <file>Pixmap/jisuanqi7.png</file>
+        <file>Pixmap/jisuanqi9.png</file>
+        <file>Pixmap/jisuanqi10.png</file>
+        <file>Pixmap/jisuanqi11.png</file>
+        <file>Pixmap/jisuanqi12.png</file>
+        <file>Pixmap/jisuanqi1@2x.png</file>
+        <file>Pixmap/jisuanqi2@2x.png</file>
+        <file>Pixmap/jisuanqi3@2x.png</file>
+        <file>Pixmap/jisuanqi4@2x.png</file>
+        <file>Pixmap/jisuanqi5@2x.png</file>
+        <file>Pixmap/jisuanqi6@2x.png</file>
+        <file>Pixmap/jisuanqi7@2x.png</file>
+        <file>Pixmap/jisuanqi8@2x.png</file>
+        <file>Pixmap/jisuanqi9@2x.png</file>
+        <file>Pixmap/jisuanqi10@2x.png</file>
+        <file>Pixmap/jisuanqi11@2x.png</file>
+        <file>Pixmap/jisuanqi12@2x.png</file>
+        <file>Pixmap/jisuanqi1.png</file>
+        <file>Pixmap/jisuanqi2.png</file>
+        <file>Pixmap/jisuanqi3.png</file>
+        <file>Pixmap/jisuanqi4.png</file>
+        <file>Pixmap/jisuanqi8.png</file>
+        <file>Pixmap/guanbi.png</file>
+        <file>Pixmap/guanbi@2x.png</file>
+    </qresource>
+</RCC>

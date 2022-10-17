@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ItemTool</class>
+ <widget class="QWidget" name="ItemTool">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>670</width>
+    <height>155</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QWidget" name="horizontalLayoutWidget_2">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>20</y>
+     <width>641</width>
+     <height>91</height>
+    </rect>
+   </property>
+   <layout class="QHBoxLayout" name="horizontalLayout_5">
+    <item>
+     <widget class="Frame_1" name="frame">
+      <property name="frameShape">
+       <enum>QFrame::StyledPanel</enum>
+      </property>
+      <property name="frameShadow">
+       <enum>QFrame::Raised</enum>
+      </property>
+      <widget class="QWidget" name="horizontalLayoutWidget">
+       <property name="geometry">
+        <rect>
+         <x>10</x>
+         <y>10</y>
+         <width>611</width>
+         <height>71</height>
+        </rect>
+       </property>
+       <layout class="QHBoxLayout" name="horizontalLayout">
+        <property name="spacing">
+         <number>5</number>
+        </property>
+        <item>
+         <widget class="PushButton_2" name="pAdjust">
+          <property name="styleSheet">
+           <string notr="true">QPushButton{
+border: none;
+}
+</string>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+          <property name="checkable">
+           <bool>true</bool>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="PushButton_2" name="pBorder">
+          <property name="styleSheet">
+           <string notr="true">QPushButton{
+border: none;
+}</string>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+          <property name="checkable">
+           <bool>true</bool>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="PushButton_2" name="pFillColor">
+          <property name="styleSheet">
+           <string notr="true">QPushButton{
+border: none;
+}</string>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+          <property name="checkable">
+           <bool>true</bool>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="PushButton_2" name="pFlip">
+          <property name="styleSheet">
+           <string notr="true">QPushButton{
+border: none;
+}
+</string>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+          <property name="checkable">
+           <bool>true</bool>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="PushButton_2" name="pMirror">
+          <property name="styleSheet">
+           <string notr="true">QPushButton{
+border: none;
+}</string>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+          <property name="checkable">
+           <bool>true</bool>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="PushButton_2" name="pClone">
+          <property name="styleSheet">
+           <string notr="true">QPushButton{
+border: none;
+}</string>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+          <property name="checkable">
+           <bool>true</bool>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="PushButton_2" name="pBottom">
+          <property name="styleSheet">
+           <string notr="true">QPushButton{
+border: none;
+}</string>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="PushButton_2" name="pTop">
+          <property name="styleSheet">
+           <string notr="true">QPushButton{
+border: none;
+}</string>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="PushButton_2" name="pDelete">
+          <property name="styleSheet">
+           <string notr="true">QPushButton{
+border: none;
+}</string>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>PushButton_2</class>
+   <extends>QPushButton</extends>
+   <header>Custom/PushButton/pushbutton_2.h</header>
+  </customwidget>
+  <customwidget>
+   <class>Frame_1</class>
+   <extends>QFrame</extends>
+   <header>Custom/Frame/frame_1.h</header>
+   <container>1</container>
+  </customwidget>
+ </customwidgets>
+ <resources/>
+ <connections/>
+</ui>

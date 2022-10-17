@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/prc">
+        <file>ScreenCap/zhankai4@2x.png</file>
+        <file>ScreenCap/zhankai4.png</file>
+        <file>ScreenCap/zhankai3@2x.png</file>
+        <file>ScreenCap/zhankai3.png</file>
+        <file>ScreenCap/gongju11b@2x.png</file>
+        <file>ScreenCap/gongju11b.png</file>
+        <file>ScreenCap/jisuanqi10.png</file>
+        <file>ScreenCap/jisuanqi10@2x.png</file>
+    </qresource>
+</RCC>

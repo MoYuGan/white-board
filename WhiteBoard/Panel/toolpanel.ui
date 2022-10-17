@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ToolPanel</class>
+ <widget class="QWidget" name="ToolPanel">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>650</width>
+    <height>492</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QWidget" name="verticalLayoutWidget_5">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>60</y>
+     <width>511</width>
+     <height>251</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout" stretch="0,0,0,0,0,0">
+    <property name="spacing">
+     <number>0</number>
+    </property>
+    <property name="leftMargin">
+     <number>0</number>
+    </property>
+    <property name="topMargin">
+     <number>0</number>
+    </property>
+    <property name="rightMargin">
+     <number>0</number>
+    </property>
+    <property name="bottomMargin">
+     <number>0</number>
+    </property>
+    <item>
+     <widget class="QLabel" name="label_utool">
+      <property name="styleSheet">
+       <string notr="true">QLabel{
+color: rgb(102, 102, 102);
+}</string>
+      </property>
+      <property name="text">
+       <string>通用工具</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <layout class="QGridLayout" name="gridLayout">
+      <item row="0" column="0">
+       <widget class="PushButton_2" name="pTool1">
+        <property name="styleSheet">
+         <string notr="true">QPushButton{
+border: none;
+}</string>
+        </property>
+        <property name="text">
+         <string>1</string>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="5">
+       <widget class="PushButton_2" name="pTool5">
+        <property name="styleSheet">
+         <string notr="true">QPushButton{
+border: none;
+}</string>
+        </property>
+        <property name="text">
+         <string>5</string>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="0">
+       <widget class="PushButton_2" name="pTool10">
+        <property name="styleSheet">
+         <string notr="true">QPushButton{
+border: none;
+}</string>
+        </property>
+        <property name="text">
+         <string>10</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="6">
+       <widget class="PushButton_2" name="pTool9">
+        <property name="styleSheet">
+         <string notr="true">QPushButton{
+border: none;
+}</string>
+        </property>
+        <property name="text">
+         <string>9</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="5">
+       <widget class="PushButton_2" name="pTool8">
+        <property name="styleSheet">
+         <string notr="true">QPushButton{
+border: none;
+}</string>
+        </property>
+        <property name="text">
+         <string>8</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="4">
+       <widget class="PushButton_2" name="pTool7">
+        <property name="styleSheet">
+         <string notr="true">QPushButton{
+border: none;
+}</string>
+        </property>
+        <property name="text">
+         <string>7</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="2">
+       <widget class="PushButton_2" name="pTool3">
+        <property name="styleSheet">
+         <string notr="true">QPushButton{
+border: none;
+}</string>
+        </property>
+        <property name="text">
+         <string>3</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="1">
+       <widget class="PushButton_2" name="pTool2">
+        <property name="styleSheet">
+         <string notr="true">QPushButton{
+border: none;
+}</string>
+        </property>
+        <property name="text">
+         <string>2</string>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="1">
+       <widget class="PushButton_2" name="pTool12">
+        <property name="styleSheet">
+         <string notr="true">QPushButton{
+border: none;
+}</string>
+        </property>
+        <property name="text">
+         <string>12</string>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="3">
+       <widget class="PushButton_2" name="pTool11">
+        <property name="styleSheet">
+         <string notr="true">QPushButton{
+border: none;
+}</string>
+        </property>
+        <property name="text">
+         <string>11</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="3">
+       <widget class="PushButton_2" name="pTool13">
+        <property name="styleSheet">
+         <string notr="true">QPushButton{
+border: none;
+}</string>
+        </property>
+        <property name="text">
+         <string>13</string>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="2">
+       <widget class="PushButton_2" name="pTool4">
+        <property name="styleSheet">
+         <string notr="true">QPushButton{
+border: none;
+}</string>
+        </property>
+        <property name="text">
+         <string>4</string>
+        </property>
+       </widget>
+      </item>
+      <item row="2" column="4">
+       <widget class="PushButton_2" name="pTool6">
+        <property name="styleSheet">
+         <string notr="true">QPushButton{
+border: none;
+}</string>
+        </property>
+        <property name="text">
+         <string>6</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <widget class="QLabel" name="label_line_4">
+      <property name="styleSheet">
+       <string notr="true">QLabel{
+background-color: rgb(224, 224, 224);
+}</string>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="label_dtool">
+      <property name="styleSheet">
+       <string notr="true">QLabel{
+color: rgb(102, 102, 102);
+}</string>
+      </property>
+      <property name="text">
+       <string>学科工具</string>
+      </property>
+     </widget>
+    </item>
+    <item>
+     <layout class="QGridLayout" name="gridLayout_2">
+      <item row="1" column="5">
+       <widget class="PushButton_2" name="pDisTool5">
+        <property name="styleSheet">
+         <string notr="true">QPushButton{
+border: none;
+}</string>
+        </property>
+        <property name="text">
+         <string>5</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="3">
+       <widget class="QLabel" name="label_NULL">
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="4">
+       <widget class="PushButton_2" name="pDisTool4">
+        <property name="styleSheet">
+         <string notr="true">QPushButton{
+border: none;
+}</string>
+        </property>
+        <property name="text">
+         <string>4</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="5">
+       <widget class="QLabel" name="label_NULL_3">
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="6">
+       <widget class="PushButton_2" name="pDisTool6">
+        <property name="styleSheet">
+         <string notr="true">QPushButton{
+border: none;
+}</string>
+        </property>
+        <property name="text">
+         <string>6</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="4">
+       <widget class="QLabel" name="label_NULL_2">
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="3">
+       <widget class="PushButton_2" name="pDisTool3">
+        <property name="styleSheet">
+         <string notr="true">QPushButton{
+border: none;
+}</string>
+        </property>
+        <property name="text">
+         <string>3</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="6">
+       <widget class="QLabel" name="label_NULL_5">
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="1">
+       <widget class="PushButton_2" name="pDisTool1">
+        <property name="styleSheet">
+         <string notr="true">QPushButton{
+border: none;
+}</string>
+        </property>
+        <property name="text">
+         <string>1</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="7">
+       <widget class="QLabel" name="label_NULL_4">
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+      </item>
+      <item row="1" column="2">
+       <widget class="PushButton_2" name="pDisTool2">
+        <property name="styleSheet">
+         <string notr="true">QPushButton{
+border: none;
+}</string>
+        </property>
+        <property name="text">
+         <string>2</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="1">
+       <widget class="PushButton_2" name="pDisTool8">
+        <property name="styleSheet">
+         <string notr="true">QPushButton{
+border: none;
+}</string>
+        </property>
+        <property name="text">
+         <string>8</string>
+        </property>
+       </widget>
+      </item>
+      <item row="0" column="2">
+       <widget class="PushButton_2" name="pDisTool7">
+        <property name="styleSheet">
+         <string notr="true">QPushButton{
+border: none;
+}</string>
+        </property>
+        <property name="text">
+         <string>7</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <spacer name="verticalSpacer_20">
+      <property name="orientation">
+       <enum>Qt::Vertical</enum>
+      </property>
+      <property name="sizeHint" stdset="0">
+       <size>
+        <width>1</width>
+        <height>1</height>
+       </size>
+      </property>
+     </spacer>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>PushButton_2</class>
+   <extends>QPushButton</extends>
+   <header>Custom/PushButton/pushbutton_2.h</header>
+  </customwidget>
+ </customwidgets>
+ <resources/>
+ <connections/>
+</ui>

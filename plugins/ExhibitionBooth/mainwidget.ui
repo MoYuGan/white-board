@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWidget</class>
+ <widget class="QWidget" name="MainWidget">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>921</width>
+    <height>797</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="MainToolBar_Left" name="toolbarLeft" native="true">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>470</y>
+     <width>141</width>
+     <height>41</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="MainToolBar_MidLeft" name="toolBarMidLeft" native="true">
+   <property name="geometry">
+    <rect>
+     <x>240</x>
+     <y>470</y>
+     <width>151</width>
+     <height>41</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="MainToolBar_MidRight" name="toolBarMidRight" native="true">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>470</y>
+     <width>161</width>
+     <height>41</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="MainToolBar_Refore" name="toolbarRefore_left" native="true">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>470</y>
+     <width>31</width>
+     <height>41</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="MainToolBar_Refore" name="toolbarRefore_right" native="true">
+   <property name="geometry">
+    <rect>
+     <x>580</x>
+     <y>470</y>
+     <width>31</width>
+     <height>41</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="MainToolBar_right" name="toolbarRight" native="true">
+   <property name="geometry">
+    <rect>
+     <x>640</x>
+     <y>470</y>
+     <width>161</width>
+     <height>41</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="MainMenu" name="menuMain" native="true">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>530</y>
+     <width>141</width>
+     <height>191</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QWidget" name="verticalLayoutWidget_9">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>20</y>
+     <width>791</width>
+     <height>421</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout" stretch="1">
+    <property name="spacing">
+     <number>0</number>
+    </property>
+    <item>
+     <widget class="QStackedWidget" name="stackedWidget">
+      <property name="currentIndex">
+       <number>0</number>
+      </property>
+      <widget class="QWidget" name="sWidget1">
+       <widget class="QWidget" name="horizontalLayoutWidget">
+        <property name="geometry">
+         <rect>
+          <x>250</x>
+          <y>90</y>
+          <width>281</width>
+          <height>171</height>
+         </rect>
+        </property>
+        <layout class="QHBoxLayout" name="horizontalLayout">
+         <item>
+          <widget class="CustomLabel" name="label_display">
+           <property name="text">
+            <string/>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </widget>
+      </widget>
+      <widget class="CustomWidget" name="sWidget2">
+       <widget class="QWidget" name="horizontalLayoutWidget_4">
+        <property name="geometry">
+         <rect>
+          <x>50</x>
+          <y>30</y>
+          <width>691</width>
+          <height>351</height>
+         </rect>
+        </property>
+        <layout class="QHBoxLayout" name="horizontalLayout_6">
+         <item>
+          <layout class="QGridLayout" name="gridLayout" rowstretch="0" columnstretch="0">
+           <property name="sizeConstraint">
+            <enum>QLayout::SetDefaultConstraint</enum>
+           </property>
+           <property name="spacing">
+            <number>10</number>
+           </property>
+          </layout>
+         </item>
+        </layout>
+       </widget>
+      </widget>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="DevicesMenu" name="menuDeviceList" native="true">
+   <property name="geometry">
+    <rect>
+     <x>200</x>
+     <y>530</y>
+     <width>131</width>
+     <height>191</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="ResolutionMenu" name="menuResolutionList" native="true">
+   <property name="geometry">
+    <rect>
+     <x>350</x>
+     <y>530</y>
+     <width>141</width>
+     <height>191</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="BoardView" name="graphicsView_1">
+   <property name="geometry">
+    <rect>
+     <x>720</x>
+     <y>530</y>
+     <width>171</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QGraphicsView{
+border: none;
+background: transparent;
+}</string>
+   </property>
+  </widget>
+  <widget class="ControlMenu" name="controlMenu" native="true">
+   <property name="geometry">
+    <rect>
+     <x>510</x>
+     <y>530</y>
+     <width>171</width>
+     <height>191</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="BoardView" name="graphicsView_2">
+   <property name="geometry">
+    <rect>
+     <x>720</x>
+     <y>640</y>
+     <width>171</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QGraphicsView{
+border: none;
+background: transparent;
+}</string>
+   </property>
+  </widget>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>MainToolBar_Left</class>
+   <extends>QWidget</extends>
+   <header>ToolBar/maintoolbar_left.h</header>
+   <container>1</container>
+  </customwidget>
+  <customwidget>
+   <class>MainToolBar_MidLeft</class>
+   <extends>QWidget</extends>
+   <header>ToolBar/maintoolbar_midleft.h</header>
+   <container>1</container>
+  </customwidget>
+  <customwidget>
+   <class>MainToolBar_MidRight</class>
+   <extends>QWidget</extends>
+   <header>ToolBar/maintoolbar_midright.h</header>
+   <container>1</container>
+  </customwidget>
+  <customwidget>
+   <class>MainToolBar_Refore</class>
+   <extends>QWidget</extends>
+   <header>ToolBar/maintoolbar_refore.h</header>
+   <container>1</container>
+  </customwidget>
+  <customwidget>
+   <class>MainToolBar_right</class>
+   <extends>QWidget</extends>
+   <header>ToolBar/maintoolbar_right.h</header>
+   <container>1</container>
+  </customwidget>
+  <customwidget>
+   <class>MainMenu</class>
+   <extends>QWidget</extends>
+   <header>Menu/mainmenu.h</header>
+   <container>1</container>
+  </customwidget>
+  <customwidget>
+   <class>CustomLabel</class>
+   <extends>QLabel</extends>
+   <header>Custom/CustomLabel/customlabel.h</header>
+  </customwidget>
+  <customwidget>
+   <class>CustomWidget</class>
+   <extends>QWidget</extends>
+   <header>Custom/CustomWidget/customwidget.h</header>
+   <container>1</container>
+  </customwidget>
+  <customwidget>
+   <class>DevicesMenu</class>
+   <extends>QWidget</extends>
+   <header>Menu/devicesmenu.h</header>
+   <container>1</container>
+  </customwidget>
+  <customwidget>
+   <class>ResolutionMenu</class>
+   <extends>QWidget</extends>
+   <header>Menu/resolutionmenu.h</header>
+   <container>1</container>
+  </customwidget>
+  <customwidget>
+   <class>BoardView</class>
+   <extends>QGraphicsView</extends>
+   <header>Draw/boardview.h</header>
+  </customwidget>
+  <customwidget>
+   <class>ControlMenu</class>
+   <extends>QWidget</extends>
+   <header>Menu/controlmenu.h</header>
+   <container>1</container>
+  </customwidget>
+ </customwidgets>
+ <resources/>
+ <connections/>
+</ui>

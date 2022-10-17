@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>TimerPixmap/miaozhen@2x.png</file>
+        <file>TimerPixmap/miaozhen.png</file>
+        <file>TimerPixmap/guanbi@2x.png</file>
+        <file>TimerPixmap/guanbi.png</file>
+        <file>TimerPixmap/fenzhen@2x.png</file>
+        <file>TimerPixmap/fenzhen.png</file>
+        <file>TimerPixmap/daojishi7b@2x.png</file>
+        <file>TimerPixmap/daojishi7b.png</file>
+        <file>TimerPixmap/daojishi6@2x.png</file>
+        <file>TimerPixmap/daojishi6.png</file>
+        <file>TimerPixmap/daojishi5b@2x.png</file>
+        <file>TimerPixmap/daojishi5.png</file>
+        <file>TimerPixmap/daojishi4b@2x.png</file>
+        <file>TimerPixmap/daojishi4b.png</file>
+        <file>TimerPixmap/daojishi4@2x.png</file>
+        <file>TimerPixmap/daojishi4.png</file>
+        <file>TimerPixmap/daojishi3b@2x.png</file>
+        <file>TimerPixmap/daojishi3b.png</file>
+        <file>TimerPixmap/daojishi3@2x.png</file>
+        <file>TimerPixmap/daojishi3.png</file>
+        <file>TimerPixmap/daojishi2b@2x.png</file>
+        <file>TimerPixmap/daojishi2b.png</file>
+        <file>TimerPixmap/daojishi2@2x.png</file>
+        <file>TimerPixmap/daojishi2.png</file>
+        <file>TimerPixmap/daojishi1b@2x.png</file>
+        <file>TimerPixmap/daojishi1b.png</file>
+        <file>TimerPixmap/daojishi1@2x.png</file>
+        <file>TimerPixmap/daojishi1.png</file>
+        <file>TimerPixmap/daojishi@2x.png</file>
+        <file>TimerPixmap/daojishi.png</file>
+    </qresource>
+</RCC>

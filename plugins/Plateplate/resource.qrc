@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/shanchu@2x.png</file>
+        <file>images/Putaway@2x.png</file>
+        <file>images/jpg_1@2x.png</file>
+        <file>images/down@2x.png</file>
+        <file>images/zhankai2_1@2x.png</file>
+        <file>images/zhankai_1@2x.png</file>
+        <file>images/xuanze3_1@2x.png</file>
+        <file>images/xuanze2_1@2x.png</file>
+        <file>images/xuanze_1@2x.png</file>
+        <file>images/xiayiye2_1@2x.png</file>
+        <file>images/xiayiye_1@2x.png</file>
+        <file>images/tianjia2_1@2x.png</file>
+        <file>images/tianjia_1@2x.png</file>
+        <file>images/shangyiye2_1@2x.png</file>
+        <file>images/shangyiye_1@2x.png</file>
+        <file>images/huifu_1@2x.png</file>
+        <file>images/chexiao_1@2x.png</file>
+        <file>images/cachu3_1@2x.png</file>
+        <file>images/cachu2_1@2x.png</file>
+        <file>images/cachu_1@2x.png</file>
+        <file>images/bichu3_1@2x.png</file>
+        <file>images/bichu2_1@2x.png</file>
+        <file>images/bichu_1@2x.png</file>
+        <file>images/copy2@2x.png</file>
+        <file>images/copy@2x.png</file>
+        <file>images/delete@2x.png</file>
+        <file>images/down-1@2x.png</file>
+        <file>images/top@2x.png</file>
+        <file>images/mouseCursor/guangbiao5@2x.png</file>
+        <file>images/mouseCursor/guangbiao4@2x.png</file>
+        <file>images/mouseCursor/guangbiao3@2x.png</file>
+        <file>images/mouseCursor/guangbiao2@2x.png</file>
+        <file>images/mouseCursor/guangbiao1@2x.png</file>
+        <file>images/huakuai@2x.png</file>
+        <file>images/cachuzhuangtai@2x.png</file>
+    </qresource>
+</RCC>

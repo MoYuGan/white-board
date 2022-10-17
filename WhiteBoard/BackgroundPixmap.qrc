@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sceneBG/shige1.png</file>
+        <file>sceneBG/shige2.png</file>
+        <file>sceneBG/shige3.png</file>
+        <file>sceneBG/shige4.png</file>
+        <file>sceneBG/shige5.png</file>
+        <file>sceneBG/shige6.png</file>
+        <file>sceneBG/shige7.png</file>
+        <file>sceneBG/shige8.png</file>
+        <file>sceneBG/shige9.png</file>
+        <file>sceneBG/shige10.png</file>
+        <file>sceneBG/shige11.png</file>
+        <file>sceneBG/shige12.png</file>
+        <file>sceneBG/shige13.png</file>
+        <file>sceneBG/shige14.png</file>
+        <file>sceneBG/shige15.png</file>
+        <file>sceneBG/shige16.png</file>
+        <file>sceneBG/shige17.png</file>
+        <file>sceneBG/shige18.png</file>
+        <file>sceneBG/shige19.png</file>
+        <file>sceneBG/shige20.png</file>
+        <file>sceneBG/shige21.png</file>
+        <file>sceneBG/shige22.png</file>
+        <file>sceneBG/shige23.png</file>
+        <file>sceneBG/shige24.png</file>
+        <file>sceneBG/shige25.png</file>
+        <file>sceneBG/shige26.png</file>
+        <file>sceneBG/shige27.png</file>
+    </qresource>
+</RCC>

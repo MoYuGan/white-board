@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Pixmap/bofang.png</file>
+        <file>Pixmap/bofang@2x.png</file>
+        <file>Pixmap/close-1.png</file>
+        <file>Pixmap/close-1@2x.png</file>
+        <file>Pixmap/dian.png</file>
+        <file>Pixmap/file-1.png</file>
+        <file>Pixmap/file-1@2x.png</file>
+        <file>Pixmap/guanbi.png</file>
+        <file>Pixmap/guanbi@2x.png</file>
+        <file>Pixmap/narrow-1.png</file>
+        <file>Pixmap/narrow-1@2x.png</file>
+        <file>Pixmap/pause-1.png</file>
+        <file>Pixmap/pause-1@2x.png</file>
+        <file>Pixmap/play-big-1.png</file>
+        <file>Pixmap/play-big-1@2x.png</file>
+        <file>Pixmap/play-small-1.png</file>
+        <file>Pixmap/play-small-1@2x.png</file>
+        <file>Pixmap/quanping.png</file>
+        <file>Pixmap/quanping@2x.png</file>
+        <file>Pixmap/volume-1.png</file>
+        <file>Pixmap/volume-1@2x.png</file>
+        <file>Pixmap/volume-1b.png</file>
+        <file>Pixmap/volume-1b@2x.png</file>
+        <file>Pixmap/wenjian.png</file>
+        <file>Pixmap/wenjian@2x.png</file>
+        <file>Pixmap/yinliang.png</file>
+        <file>Pixmap/yinliang@2x.png</file>
+        <file>Pixmap/yinliang2.png</file>
+        <file>Pixmap/yinliang2@2x.png</file>
+        <file>Pixmap/zanting.png</file>
+        <file>Pixmap/zanting@2x.png</file>
+        <file>Pixmap/dian2x.png</file>
+        <file>Pixmap/xuanzhuan-1@2x.png</file>
+        <file>Pixmap/xuanzhuan-1.png</file>
+        <file>Pixmap/jietu-1@2x.png</file>
+        <file>Pixmap/jietu-1.png</file>
+        <file>Pixmap/background.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pixmap/fanhui.png</file>
+        <file>pixmap/fanhui@2x.png</file>
+        <file>pixmap/jietu1.png</file>
+        <file>pixmap/jietu1@2x.png</file>
+        <file>pixmap/jietu2.png</file>
+        <file>pixmap/jietu2@2x.png</file>
+        <file>pixmap/jietu3.png</file>
+        <file>pixmap/jietu3@2x.png</file>
+        <file>pixmap/jietu3b.png</file>
+        <file>pixmap/jietu3b@2x.png</file>
+        <file>pixmap/yuansu1.png</file>
+        <file>pixmap/yuansu1@2x.png</file>
+        <file>pixmap/yuansu2.png</file>
+        <file>pixmap/yuansu2@2x.png</file>
+    </qresource>
+</RCC>
